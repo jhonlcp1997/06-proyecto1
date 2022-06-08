@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/06-proyecto1/static/css/main.f62521f8.css",
+    "main.js": "/06-proyecto1/static/js/main.be95faac.js",
+    "index.html": "/06-proyecto1/index.html",
+    "main.f62521f8.css.map": "/06-proyecto1/static/css/main.f62521f8.css.map",
+    "main.be95faac.js.map": "/06-proyecto1/static/js/main.be95faac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62521f8.css",
+    "static/js/main.be95faac.js"
+  ]
+}
