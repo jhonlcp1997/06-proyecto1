@@ -14,3 +14,4 @@
     - git add .
     - git commit -m "mensage"
     - git push
+    - repetir lo de arriba
